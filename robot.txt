@@ -1,2 +1,3 @@
 try
 demonstrasi git pull comman yeas
+demonstrasi git push command 
